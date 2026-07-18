@@ -21,4 +21,8 @@ Lab Results -
 A doctor orders lab work in the EMR/EHR.
 The order is sent to the Laboratory Information System (LIS), which may be part of the EMR or a separate system.
 After the tests are completed, the results are sent back to the EMR for the doctor to review.
+
+Patient Referrals - 
+When a patient is referred to another healthcare organization or specialist, relevant medical information needs to be shared.
+The referral information is sent from the primary care provider (GP) to the receiving healthcare organization so the specialist has the necessary patient details.
 ## Common mistakes & comparisons
